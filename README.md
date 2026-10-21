@@ -1,4 +1,4 @@
-Save Our Subscribers (SOS): Solving Customer Churn at Mtn Ghana with Smart AI
+Save Our Subscribers (SOS): Solving Customer Churn at Mtn Ghana with Smart AI.
 
 Welcome to the Mtn Ghana Customer Retention Project! This project uses machine learning (artificial intelligence) to help telcom Ghana figure out which customers are thinking about leaving the network before they actually switch, allowing telcom to offer them targeted rewards to stay.
 
