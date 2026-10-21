@@ -1,14 +1,14 @@
-Save Our Subscribers (SOS): Solving Customer Churn at telcom Ghana with Smart AI
+Save Our Subscribers (SOS): Solving Customer Churn at Mtn Ghana with Smart AI
 
-Welcome to the telcom Ghana Customer Retention Project! This project uses machine learning (artificial intelligence) to help telcom Ghana figure out which customers are thinking about leaving the network before they actually switch, allowing telcom to offer them targeted rewards to stay.
+Welcome to the Mtn Ghana Customer Retention Project! This project uses machine learning (artificial intelligence) to help telcom Ghana figure out which customers are thinking about leaving the network before they actually switch, allowing telcom to offer them targeted rewards to stay.
 
 Why This Project Matters (The Problem)
 
-telcom Ghana is the largest mobile network in Ghana with over 31 million users. However, keeping customers happy is tough due to rising costs and inflation.
+Mtn Ghana is the largest mobile network in Ghana with over 31 million users. However, keeping customers happy is tough due to rising costs and inflation.
 
 Normally, when a company starts losing customers (this is called churn), they might just drop their prices or run massive discount campaigns. But telcom Ghana can't do that:
 
-Government Rules (SMP): telcom is classified as a "Significant Market Power" by the government. This means they are legally blocked from offering ultra-cheap rates that could run smaller competitors out of business.
+Government Rules (SMP): Mtn is classified as a "Significant Market Power" by the government. This means they are legally blocked from offering ultra-cheap rates that could run smaller competitors out of business.
 
 Profit Margins: Giving discounts to all 31 million people would destroy telcom's revenue.
 
